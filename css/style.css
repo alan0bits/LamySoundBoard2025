@@ -1,0 +1,41 @@
+.list{
+	padding-left:0}
+.list li{
+	list-style-type:none}
+.floated li{
+	float:left}
+audio{
+	display:none}
+.soundboard{
+	margin-top:0}
+.soundboard li{
+	width:50%;
+	margin-bottom:20px;
+	margin-bottom:2rem}
+.soundboard li a{
+	display:block;
+	background-repeat:no-repeat;
+	background-position:center center;
+	max-width:100%;
+	text-align:center}
+.soundboard li a img{
+	max-width:100%}
+.soundboard li a:hover{
+	-moz-opacity:.8;
+	-khtml-opacity:.8;
+	-webkit-opacity:.8;
+	opacity:.8;
+	filter:alpha(opacity=80)}
+ #Audios {
+        display: none;
+		visibility: hidden;
+    }
+body {
+  background-image: url('../img/LAMY BACKGROUND.jpg'); /* Specify the path to your image */
+  background-size: cover; /* Scale the image to cover the entire element, maintaining aspect ratio */
+  background-position: right center; /* Position the background image to the right and vertically centered */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  background-attachment: fixed;
+  height: 100vh; /* Ensure the body takes up the full viewport height */
+  width: 100vw; /* Ensure the body takes up the full viewport width */
+}
