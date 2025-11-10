@@ -255,7 +255,23 @@
     audio254: 'audio/yokozo.mp3',
     audio255: 'audio/yoroshiku.mp3',
     audio256: 'audio/yoyoyoyoyoyo.mp3',
-    audio257: 'audio/yukihana_yagi.mp3'
+    audio257: 'audio/yukihana_yagi.mp3',
+    audio258: 'audio/lamy debut 1.mp3',
+    audio259: 'audio/lamy debut 2.mp3',
+    audio260: 'audio/lamy debut 3.mp3',
+    audio261: 'audio/lamy debut 4.mp3',
+    audio262: 'audio/lamy debut 5.mp3',
+    audio263: 'audio/lamy debut 6.mp3',
+    audio264: 'audio/lamy debut 7.mp3',
+    audio265: 'audio/lamy debut 8.mp3',
+    audio266: 'audio/lamy debut 9.mp3',
+    audio267: 'audio/lamy debut 10.mp3',
+    audio268: 'audio/Lamy debut yosho.mp3',
+    audio269: 'audio/Lamy debut Yosho!!!.mp3',
+    audio270: 'audio/lamyzanzan.mp3',
+    audio271: 'audio/lamyzanzan2.mp3',
+    audio272: 'audio/lamyfuuuuu.mp3',
+    audio273: 'audio/lamyfuuuuuu2.mp3'
   };
 
   // Keep track of the current audio being played
