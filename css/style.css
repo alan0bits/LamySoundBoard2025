@@ -30,6 +30,22 @@ audio{
         display: none;
 		visibility: hidden;
     }
+
+	h2 {
+  color: rgb(251, 251, 253); /* Change 'blue' to your desired color */
+  text-align: center;
+}
+
+.hero-unit h2 {
+    text-align: center;
+  }
+
+  .navbar .container {
+  display: flex;
+  justify-content: center; /* horizontal center */
+  align-items: center;     /* vertical center */
+  height: 100%;            /* adjust if needed */
+}
 body {
   background-image: url('../img/LAMY BACKGROUND.jpg'); /* Specify the path to your image */
   background-size: cover; /* Scale the image to cover the entire element, maintaining aspect ratio */
